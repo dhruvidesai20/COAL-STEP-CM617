@@ -1,0 +1,9 @@
+technology,phase,fte_job_years_per_MW,source,location
+ground,Business development,0.18,CEEW-NRDC 2026,Fig 4 p.17
+ground,Design/pre-construction,0.11,CEEW-NRDC 2026,Fig 4 p.17
+ground,Construction/commissioning,0.45,CEEW-NRDC 2026,Fig 4 p.17
+ground,O&M,0.26,CEEW-NRDC 2026,Fig 4 p.17
+floating,Business development,0.05,CEEW-NRDC 2026,Fig 5 p.17
+floating,Design/pre-construction,0.18,CEEW-NRDC 2026,Fig 5 p.17
+floating,Construction/commissioning,0.58,CEEW-NRDC 2026,Fig 5 p.17
+floating,O&M,1.40,CEEW-NRDC 2026,Fig 5 p.17

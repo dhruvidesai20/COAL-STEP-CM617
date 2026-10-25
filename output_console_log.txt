@@ -1,0 +1,46 @@
+
+Table A  J_{k,p} at s=1.00 (FTE job-years; O&M row = FTE per operating year)
+ tech          floating  ground    total
+phase                                  
+BD               165.0  1350.9   1515.9
+Design           594.0   825.6   1419.6
+Construction    1914.0  3377.2   5291.2
+O&M             4620.0  1951.3   6571.3
+Total           7293.0  7505.0  14798.0
+one-off job-years  ground 5553.7  floating 2673.0  total 8226.7
+steady O&M FTE     ground 1951.3  floating 4620.0  total 6571.3
+floating share of MW 30.5% ; of J_total 49.3% ; of O&M FTE 70.3%
+if all 10,805 MW used ground-mounted beta: 10805  vs mix 14798 (+37%)
+
+Table B scenario grid
+  share  T  cap_MW  oneoff_jy  om_peak_FTE  om_jy_life  lifetime_jy  peak_total_FTE  mean_oneoff_FTE_per_yr  peak_oneoff_FTE
+  0.25 10  2701.0     2057.0       1643.0     41071.0      43127.0          1643.0                   206.0            206.0
+  0.25 20  2701.0     2057.0       1643.0     41071.0      43127.0          1643.0                   103.0            103.0
+  0.25 30  2701.0     2057.0       1369.0     41071.0      43127.0          1438.0                    69.0             69.0
+  0.50 10  5402.0     4113.0       3286.0     82141.0      86255.0          3286.0                   411.0            411.0
+  0.50 20  5402.0     4113.0       3286.0     82141.0      86255.0          3286.0                   206.0            206.0
+  0.50 30  5402.0     4113.0       2738.0     82141.0      86255.0          2875.0                   137.0            137.0
+  0.75 10  8104.0     6170.0       4928.0    123212.0     129382.0          4928.0                   617.0            617.0
+  0.75 20  8104.0     6170.0       4928.0    123212.0     129382.0          4928.0                   309.0            309.0
+  0.75 30  8104.0     6170.0       4107.0    123212.0     129382.0          4313.0                   206.0            206.0
+  1.00 10 10805.0     8227.0       6571.0    164282.0     172509.0          6571.0                   823.0            823.0
+  1.00 20 10805.0     8227.0       6571.0    164282.0     172509.0          6571.0                   411.0            411.0
+  1.00 30 10805.0     8227.0       5476.0    164282.0     172509.0          5750.0                   274.0            274.0
+
+Pipeline-anchored check (50% ground, floating=300 MW): oneoff 3020 jy ; O&M 1396 FTE
+
+Skill mix (s=1), %:
+                                     high  semi   low
+group                                               
+Development+construction (one-off)  23.6  39.4  37.0
+O&M (recurring)                     23.7  31.3  45.0
+
+O&M FTE by skill (s=1):
+                J    high    semi     low
+tech                                    
+floating  4620.0  1247.0  1432.0  1940.0
+ground    1951.0   312.0   624.0  1015.0
+
+Context: peak annual FTE (s=1,T=20) = 6571 ; = 3.9% of 168,721 direct coal-dependent workers (not like-for-like)
+informal coal workers (Angul 2022 T8): 116493 = 69.0 %
+max solar O&M FTE vs coal-mining informal+all:  3.8947730276610497

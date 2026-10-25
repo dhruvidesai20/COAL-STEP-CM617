@@ -1,0 +1,9 @@
+technology,phase,highly_skilled_pct,semi_skilled_pct,low_skilled_pct,source,location
+ground,Business development,48,52,0,CEEW-NRDC 2026,Fig 7 p.19
+ground,Design/pre-construction,38,62,0,CEEW-NRDC 2026,Fig 7 p.19
+ground,Construction/commissioning,11,30,59,CEEW-NRDC 2026,Fig 7 p.19
+ground,O&M,16,32,52,CEEW-NRDC 2026,Fig 7 p.19
+floating,Business development,48,52,0,CEEW-NRDC 2026,Fig 8 p.19
+floating,Design/pre-construction,54,46,0,CEEW-NRDC 2026,Fig 8 p.19
+floating,Construction/commissioning,11,34,55,CEEW-NRDC 2026,Fig 8 p.19
+floating,O&M,27,31,42,CEEW-NRDC 2026,Fig 8 p.19

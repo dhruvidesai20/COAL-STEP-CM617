@@ -1,0 +1,6 @@
+technology,land_or_water_type,potential_MW,source,location
+ground,Reclaimed mining land (external OB area),934,iFOREST 2022 Angul report,Table 8 p.107
+ground,Reclaimed mining land (excavated area),4646,iFOREST 2022 Angul report,Table 8 p.107
+ground,Wasteland,1925,iFOREST 2022 Angul report,Table 8 p.107
+floating,Floating solar (Rengali + Derjang reservoirs),3300,iFOREST 2022 Angul report,Table 8 p.107 (method p.106)
+excluded,Rooftop,26,iFOREST 2022 Angul report,text p.107 (excluded from analysis)
